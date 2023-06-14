@@ -3,7 +3,7 @@
   "version": "13.0.0",
   "description": "Official Cordova/PhoneGap plugin for Intercom",
   "cordova": {
-    "id": "cordova-plugin-intercom",
+    "id": "cordova-plugin-intercom-welcome-pickups",
     "platforms": [
       "ios",
       "android"
